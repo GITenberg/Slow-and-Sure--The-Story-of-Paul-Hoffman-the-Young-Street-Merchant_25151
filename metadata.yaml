@@ -1,0 +1,34 @@
+_repo: Slow-and-Sure--The-Story-of-Paul-Hoffman-the-Young-Street-Merchant_25151
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alger, Horatio, Jr.
+    aliases:
+    - Putnam, Arthur Lee
+    - Starr, Julian
+    - Alger, Horatio
+    - Jr., Horatio Alger
+    - Preston, Charles F.
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: ''
+gutenberg_issued: '2008-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25151'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'New York (N.Y.) -- Juvenile fiction'
+- !lcsh 'Boys -- Conduct of life -- Juvenile fiction'
+title: 'Slow and Sure: The Story of Paul Hoffman the Young Street-Merchant'
+url: http://www.gutenberg.org/ebooks/25151
