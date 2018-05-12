@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/168
     wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25151#Slow-and-Sure--The-Story-of-Paul-Hoffman-the-Young-Street-Merchant
 gutenberg_issued: '2008-04-23'
 gutenberg_type: Text
 identifiers:
